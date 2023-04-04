@@ -3,3 +3,14 @@
 3.- git commit -m "Mensaje" 
 4.- Ligar con un repositorio remoto Ej(git remote add origin https://github.com/ossiem17/git_ptf.git)
 5.- git push -u origin master o git push -u origin main
+
+
+--------
+Para subir cambuios:
+2
+3
+5
+
+--Visual
+
+
